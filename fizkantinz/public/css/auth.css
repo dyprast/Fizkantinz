@@ -1,0 +1,23 @@
+body{
+	background-color: #2c384a!important;
+}
+.container{
+	margin-top: 50px;
+}
+.main-header{
+	color: #fff;
+}
+.header{
+	color: #3490dc;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+.footer-copyright{
+	color: #fff;
+	padding-top: 10px;
+}
+.input-group-text{
+	width: 40px;
+}
